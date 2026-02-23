@@ -1,0 +1,17 @@
+{
+  "name": "personal-marketplace",
+  "owner": {
+    "name": "Dick Davis",
+    "email": "webmaster@dick.codes"
+  },
+  "plugins": [
+    {
+      "name": "comments-plugin",
+      "source": {
+        "source": "github",
+        "repo": "dickdavis/comments-plugin"
+      },
+      "description": "Claude Code plugin for writing effective interface and implementation comments."
+    }
+  ]
+}
