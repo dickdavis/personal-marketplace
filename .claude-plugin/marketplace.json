@@ -12,6 +12,14 @@
         "repo": "dickdavis/comments-plugin"
       },
       "description": "Claude Code plugin for writing effective interface and implementation comments."
+    },
+    {
+      "name": "rails-plugin",
+      "source": {
+        "source": "github",
+        "repo": "dickdavis/rails-plugin"
+      },
+      "description": "Claude Code plugin for building Rails applications."
     }
   ]
 }
