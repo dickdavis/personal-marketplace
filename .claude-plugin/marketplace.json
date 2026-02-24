@@ -6,12 +6,12 @@
   },
   "plugins": [
     {
-      "name": "comments-plugin",
+      "name": "technical-writer",
       "source": {
         "source": "github",
-        "repo": "dickdavis/comments-plugin"
+        "repo": "dickdavis/technical-writer-plugin"
       },
-      "description": "Claude Code plugin for writing effective interface and implementation comments."
+      "description": "Claude Code plugin for writing effective technical documentation."
     },
     {
       "name": "rails-plugin",
