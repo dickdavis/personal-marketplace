@@ -16,5 +16,5 @@ You can then browse all of the available plugins.
 
 ## Plugins
 
-* [comments-plugin](https://github.com/dickdavis/comments-plugin) - Claude Code plugin for writing effective interface and implementation comments.
+* [technical-writer-plugin](https://github.com/dickdavis/technical-writer-plugin) - Claude Code plugin for writing effective technical documentation.
 * [rails-plugin](https://github.com/dickdavis/rails-plugin) - Claude Code plugin for building Rails applications.
