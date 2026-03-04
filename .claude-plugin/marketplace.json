@@ -12,7 +12,7 @@
         "repo": "dickdavis/rails-plugin"
       },
       "description": "Claude Code plugin for building Rails applications."
-    }
+    },
     {
       "name": "technical-writer",
       "source": {
