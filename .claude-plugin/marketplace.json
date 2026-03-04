@@ -6,6 +6,14 @@
   },
   "plugins": [
     {
+      "name": "rails-plugin",
+      "source": {
+        "source": "github",
+        "repo": "dickdavis/rails-plugin"
+      },
+      "description": "Claude Code plugin for building Rails applications."
+    }
+    {
       "name": "technical-writer",
       "source": {
         "source": "github",
@@ -14,12 +22,12 @@
       "description": "Claude Code plugin for writing effective technical documentation."
     },
     {
-      "name": "rails-plugin",
+      "name": "terminal-security",
       "source": {
         "source": "github",
-        "repo": "dickdavis/rails-plugin"
+        "repo": "dickdavis/terminal-security-plugin"
       },
-      "description": "Claude Code plugin for building Rails applications."
+      "description": "Claude Code plugin that provides an extra layer of defense and auditability."
     }
   ]
 }
