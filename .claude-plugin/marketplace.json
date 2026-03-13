@@ -6,6 +6,14 @@
   },
   "plugins": [
     {
+      "name": "mcp-rb",
+      "source": {
+        "source": "github",
+        "repo": "dickdavis/model-context-protocol-rb-plugin"
+      },
+      "description": "Claude Code plugin that assists in building MCP servers using the model-context-protocol-rb gem."
+    },
+    {
       "name": "rails-plugin",
       "source": {
         "source": "github",

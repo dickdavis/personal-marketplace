@@ -16,6 +16,7 @@ You can then browse all of the available plugins.
 
 ## Plugins
 
+* [model-context-protocol-rb-plugin](https://github.com/dickdavis/model-context-protocol-rb-plugin) - Claude Code plugin that assists in building MCP servers using the model-context-protocol-rb gem.
 * [rails-plugin](https://github.com/dickdavis/rails-plugin) - Claude Code plugin for building Rails applications.
 * [technical-writer-plugin](https://github.com/dickdavis/technical-writer-plugin) - Claude Code plugin for writing effective technical documentation.
 * [terminal-security-plugin](https://github.com/dickdavis/terminal-security-plugin) - Claude Code plugin that provides an extra layer of defense and auditability.
