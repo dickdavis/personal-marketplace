@@ -6,6 +6,14 @@
   },
   "plugins": [
     {
+      "name": "channel-messenger",
+      "source": {
+        "source": "github",
+        "repo": "dickdavis/channel-messenger-plugin"
+      },
+      "description": "Channel plugin that bridges Claude Code with a messaging API via WebSocket."
+    },
+    {
       "name": "mcp-rb",
       "source": {
         "source": "github",
