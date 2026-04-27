@@ -30,6 +30,14 @@
       "description": "Claude Code plugin for building Rails applications."
     },
     {
+      "name": "svelte-ts-bun",
+      "source": {
+        "source": "github",
+        "repo": "dickdavis/svelte-ts-bun-plugin"
+      },
+      "description": "Claude Code plugin for building frontend applications with Svelte, TypeScript, and Bun."
+    },
+    {
       "name": "technical-writer",
       "source": {
         "source": "github",
